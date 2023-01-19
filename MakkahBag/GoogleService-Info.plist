@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+    "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+    <dict>
+      <key>CLIENT_ID</key>
+      <string>997656355302-4v9vscgagi0nsi0s3cgjalqta1qvlql7.apps.googleusercontent.com</string>
+      <key>REVERSED_CLIENT_ID</key>
+      <string>com.googleusercontent.apps.997656355302-4v9vscgagi0nsi0s3cgjalqta1qvlql7</string>
+      <key>PLIST_VERSION</key>
+      <string>1</string>
+      <key>BUNDLE_ID</key>
+      <string>com.ayman.makkahbagapp</string>
+    </dict>
+    </plist>

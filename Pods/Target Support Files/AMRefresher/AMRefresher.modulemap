@@ -1,0 +1,6 @@
+framework module AMRefresher {
+  umbrella header "AMRefresher-umbrella.h"
+
+  export *
+  module * { export * }
+}
